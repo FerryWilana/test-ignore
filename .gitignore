@@ -1,1 +1,6 @@
 config.txt
+data/
+*.exe
+
+digunakan untuk tidak membawa file yang tidak ingin di upload ke github
+git ignore.io
